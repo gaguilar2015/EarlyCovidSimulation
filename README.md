@@ -1,5 +1,5 @@
 # Early Covid Simulation
-This repository is the source for a very early (April 2020) simulation of the COVID-19 outbreaks. 
+This repository is the source for a [very early (April 2020) simulation of the COVID-19 outbreaks.](https://sibbz.shinyapps.io/docucovid/) 
 
 The simulation is built using R, RMarkdown and Shiny, resulting in an interactive document where epidemiological parameters may be modified to update an outbreak simulation in realtime.
 
