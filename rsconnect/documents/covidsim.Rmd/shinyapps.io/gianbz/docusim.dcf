@@ -1,0 +1,12 @@
+name: docusim
+title: docusim
+username:
+account: gianbz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2095283
+bundleId: 2996896
+url: https://gianbz.shinyapps.io/docusim/
+when: 1586532812.96265
+asMultiple: FALSE
+asStatic: FALSE

@@ -1,0 +1,10 @@
+name: docucovid
+title:
+username:
+account: gianbz
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2063470
+bundleId: 2976352
+url: https://gianbz.shinyapps.io/docucovid/
+when: 1586188338.0559
